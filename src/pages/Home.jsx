@@ -15,7 +15,7 @@ export const Home=()=>{
             <Navbar/>
             {/* Main Content */}
 
-            {/* Footerrrr */}
+            {/* Footer */}
         </div>
     )
 }
